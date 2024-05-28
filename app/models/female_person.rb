@@ -1,0 +1,2 @@
+class FemalePerson < Person
+end

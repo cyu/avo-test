@@ -1,0 +1,2 @@
+class MalePerson < Person
+end
